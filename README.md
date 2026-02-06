@@ -91,7 +91,7 @@ The `requirements.txt` file includes the following dependencies:
 * matplotlib
 
 
-s.
+
 
 
 
