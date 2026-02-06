@@ -1,0 +1,11 @@
+Appointment_Day,Time_Slot,Booking_Gap,Previous_No_Shows,SMS_Reminder,Distance_km,Appointment_Type
+Monday,Morning,5,0,Yes,5,Checkup
+Tuesday,Afternoon,2,1,No,12,Consultation
+Wednesday,Evening,10,0,Yes,8,Test
+Thursday,Morning,1,3,No,20,Consultation
+Friday,Evening,3,2,No,15,Checkup
+Saturday,Afternoon,7,1,Yes,6,Test
+Monday,Evening,0,4,No,18,Consultation
+Tuesday,Morning,14,0,Yes,4,Checkup
+Wednesday,Afternoon,6,2,No,10,Test
+Friday,Morning,9,1,Yes,7,Consultation
