@@ -51,12 +51,12 @@ The trained model and encoders are stored and reused for fast inference during d
 ## 📂 Project Structure
 
 Appointment-No-Show-Predictor/
-├── app.py                  # Streamlit web application
-├── model.py                # Model training logic
-├── encoders.pkl             # Saved label encoders
-├── no_show_model.pkl        # Trained ML model
-├── appointment_data.csv     # Sample dataset
-└── README.md                # Project documentation
+- app.py                  # Streamlit web application
+- model.py                # Model training logic
+- encoders.pkl             # Saved label encoders
+- no_show_model.pkl        # Trained ML model
+- appointment_data.csv     # Sample dataset
+- README.md                # Project documentation
 
 
 
