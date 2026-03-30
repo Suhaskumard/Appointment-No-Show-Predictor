@@ -60,8 +60,6 @@ Appointment-No-Show-Predictor/
 
 
 
-
-
 ## ▶️ How to Run the Project
 
 ### Step 1: Install Dependencies
